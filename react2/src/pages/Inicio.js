@@ -1,7 +1,7 @@
 export const Inicio=()=>{
     return(
         <div>
-            Estoy en Inicio
+            Estoy en Iniciooo
         </div>
     )
 }

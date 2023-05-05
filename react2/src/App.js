@@ -8,6 +8,8 @@ import {Conocenos} from "./pages/Conocenos"
 export default function App() {
   return (
     <div className="App">
+
+      
       <Router>
         <Navbar />
         <Routes>
@@ -16,8 +18,8 @@ export default function App() {
           <Route path= '/contacto' element={<Contacto/>}/>
           <Route path= '/conocenos' element={<Conocenos/>}/>
         </Routes>
+        
       </Router>
-     
     </div>
   );
 }

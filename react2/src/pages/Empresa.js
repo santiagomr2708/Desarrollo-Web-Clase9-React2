@@ -4,4 +4,4 @@ export const Empresa=()=>{
             Estoy en empresa
         </div>
     )
-}
+}   

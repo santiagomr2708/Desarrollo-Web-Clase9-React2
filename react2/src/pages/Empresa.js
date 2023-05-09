@@ -1,7 +1,7 @@
 export const Empresa=()=>{
     return (
         <div>
-            Estoy en empresa
+          carne
         </div>
     )
 }   
